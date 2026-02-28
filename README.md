@@ -17,7 +17,7 @@ Simular o desenvolvimento e validação de um sistema web de agendamento, aplica
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 - **Jira** → Gestão de backlog, sprint e bug tracking  
 - **Confluence** → Documentação de testes  
@@ -64,7 +64,7 @@ Foi identificado que o sistema permitia selecionar uma data anterior à data atu
 
 ---
 
-## 🔄 Fluxo de Trabalho Utilizado
+## Fluxo de Trabalho Utilizado
 
 Backlog → Selected for Development → In Progress → Code Review → QA/Testes → Done
 
@@ -73,13 +73,13 @@ New → In Analysis → In Progress → Fixed → Retest → Done
 
 ---
 
-## 📎 Documentação Completa
+## Documentação Completa
 
 A documentação detalhada do projeto encontra-se no arquivo PDF disponível neste repositório.
 
 ---
 
-## 🚀 Aprendizados
+## Aprendizados
 
 Este projeto reforçou minha compreensão sobre:
 
@@ -91,7 +91,7 @@ Este projeto reforçou minha compreensão sobre:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Giovanna Fernandes**  
 Estudante de Sistemas de Informação  
